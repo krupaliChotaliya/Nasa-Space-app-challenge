@@ -34,7 +34,23 @@ Processes and stores the data in MongoDB for optimized access.
 <img width="827" height="360" alt="image" src="https://github.com/user-attachments/assets/bb206f74-a4a5-4005-a73a-bd47d180d62c" />
 
 
+---
 
-Provides RESTful endpoints for easy front-end consumption.
+## ​ Installation & Setup
 
-Ensures fast, reliable, and scalable performance.
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/krupaliChotaliya/Nasa-Space-app-challenge.git
+   cd Nasa-Space-app-challenge/Nasa-Challenge
+Install dependencies
+
+npm install
+Environment variables
+Create a .env file in the root:
+
+NASA_API_KEY=YOUR_NASA_API_KEY
+MONGO_URI=YOUR_MONGODB_URI
+PORT=3000
+Run the app
+
+npm start
