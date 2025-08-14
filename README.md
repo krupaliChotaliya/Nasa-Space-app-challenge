@@ -29,18 +29,8 @@ Fetches live environmental and climate data from NASA’s APIs.
 Processes and stores the data in MongoDB for optimized access.
 
 📂 Project Structure
-Nasa-Challenge/
-│
-├── Controller/     # Handles API and data logic
-├── Model/          # MongoDB schemas
-├── Router/         # Application routes
-├── Utils/          # Helper functions
-├── images/         # Static images and assets
-├── public/         # Publicly accessible files (CSS, JS, etc.)
-├── views/          # Handlebars templates
-├── app.js          # Main server file
-├── package.json    # Dependencies & scripts
-└── .env            # Environment variables (NASA API Key, Mongo URI)
+<img width="827" height="360" alt="image" src="https://github.com/user-attachments/assets/bb206f74-a4a5-4005-a73a-bd47d180d62c" />
+
 
 
 Provides RESTful endpoints for easy front-end consumption.
